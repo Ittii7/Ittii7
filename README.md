@@ -1,4 +1,9 @@
-## Hi there 👋
+# こんにちは、<Ittii7>です
+- 大学生 / 初心者。今は Web基礎とデータ処理・深層学習を を勉強中。
+- 今月の小目標: 
+   
+   学習ノートを週2回更新
+
 
 <!--
 **Ittii7/Ittii7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
